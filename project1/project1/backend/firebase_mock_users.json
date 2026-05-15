@@ -1,0 +1,18 @@
+[
+  {
+    "email": "testuser8@example.com",
+    "password_hash": "$2b$12$/kY37Ozbi1SvidCSZfZqfutERS4.OgoM739.Y07ybzZo5oNTLfWUy",
+    "user_type": "job_seeker",
+    "role": "job_seeker",
+    "history": [],
+    "full_name": "guna",
+    "phone": "9490139354",
+    "graduation_year": "2027",
+    "study_year": "3rd Year",
+    "degree_type": "BTech",
+    "college_name": "kare",
+    "id": "1311039d-433e-451c-aae4-823d922d81d8",
+    "created_at": "2026-04-30T04:44:21.548487",
+    "updated_at": "2026-04-30T04:44:21.548487"
+  }
+]
